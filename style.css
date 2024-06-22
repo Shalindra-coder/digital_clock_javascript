@@ -1,0 +1,32 @@
+body{
+    background-color: #121212;
+    color: #fff;
+    display: flex;
+}
+
+.center{
+    height: 70vh;
+    width: 60%;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 200px;
+    color: white;
+    font-size: 20px;
+    flex-direction: column;
+    
+}
+#banner{
+    margin-left: px;
+}
+#clock{
+    height: 35px;
+    width: 150px;
+    background-color: rgb(97, 97, 19);
+    border: 2px black solid;
+    border-radius: 10px;
+    font-size: 25px;
+    text-align: center;
+    
+}
